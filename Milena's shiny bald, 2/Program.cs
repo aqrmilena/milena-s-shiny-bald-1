@@ -1,4 +1,8 @@
 ﻿// Milena Aquino Ramos 2026-1036
+// Project: Hair Salon Appointment Management System
+// Description: A console application designed to manage customers,
+// services, and appointments. It allows users to create, view, modify, and cancel appointments.
+// #yawey
 
 List<int> ids = new List<int>();
 Dictionary<int, string> customers = new Dictionary<int, string>();
